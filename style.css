@@ -1,0 +1,27 @@
+.contenedor{
+    max-width: 50%;
+    margin: 0 auto;
+}
+body{
+    background-color: rgb(219, 198, 239);
+} 
+div{
+    background-color: azure;
+    border: 1px solid black;
+    padding: 12px;
+}
+fieldset{
+    margin-bottom: 12px;
+}
+legend{
+    background-color:aquamarine; 
+    padding: 5px;
+    border-radius: 20;
+    font-weight: bold;
+}
+img{
+    border-radius: 25%;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    float: left;
+}
